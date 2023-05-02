@@ -1,0 +1,133 @@
+#a {
+        background:rgb(196, 247, 101);
+        height:40vh;
+        width:50%;
+        text-align:center;
+        margin-left:25%;
+        margin-top:15%;
+        border: solid 3px;
+        border-color: rgb(210, 228, 108);
+}
+body{
+    background-color: rgb(127, 193, 247);
+}
+
+#t1{
+    text-align:center;
+}
+
+#imagen{
+    margin-left:25%;
+    height:30vh;
+    width:20%;
+}
+
+#t2{
+    text-align:center;
+}
+
+#i{
+    height:20vh;
+    width:10%;
+}
+
+#flecha{
+    height: 10vh;
+    width:5%;
+}
+#flechita{
+    height:10vh;
+    width:5%;
+}
+
+#ejemplo{
+    margin-left:15%;
+}
+
+#tabla{
+    margin-left: 10%;
+    border:solid 1px;
+    border-collapse: collapse;
+}
+
+#tabla tr,td{
+    border:solid 1px;
+}
+
+#color{
+    color: rgb(238, 123, 123);
+}
+
+
+#ejem{
+    color: rgb(174, 192, 248);
+    font-size: 23px;
+}
+#c{
+    color: rgb(165, 89, 89);    
+}
+
+#row1{
+    background-color: rgb(230, 231, 129);
+}
+#row2{
+    background-color: rgb(108, 108, 235);
+}
+#row3{
+    background-color: rgb(241, 105, 105);
+}
+#row4{
+    background-color: rgb(115, 228, 115);
+}
+#row5{
+    background-color: chocolate;
+}
+#row6{
+    background-color: darkgray;
+}
+#row7{
+    background-color: rgb(141, 86, 86);
+}
+
+
+#ro1{background-color: white;}
+#ro2{background-color: silver;}
+#ro3{background-color: grey;}
+#ro4{background-color: yellow;}
+#ro5{background-color: goldenrod;}
+#ro6{background-color: orange;}
+#ro7{background-color: red;color: white;}
+#ro8{background-color: purple;color: white;}
+#ro9{background-color: blue;color: white;}
+#ro10{background-color: indigo;color: white;}
+#ro11{background-color:green;}
+#ro12{background-color: black;color: white;}
+
+#netflix{
+    margin-right: 15%;
+    width: 50%;
+}
+#youtube{
+    margin-right: 15%;
+    width: 50%;
+}
+#playstore{
+    margin-right: 15%;
+    width: 50%;
+}
+#duolingo{
+    margin-right: 15%;
+    width: 40%;
+}
+#amazon{
+    margin-right: 15%;
+    width: 40%;
+}
+#bancopichincha{
+    margin-right: 15%;
+    width: 40%;
+}
+#paypal{
+    margin-right: 15%;
+    width: 40%;
+}
